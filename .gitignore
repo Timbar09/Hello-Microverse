@@ -1,2 +1,6 @@
 node_modules
 test.md
+
+# Ignore Sass files
+/scss
+.css.map
